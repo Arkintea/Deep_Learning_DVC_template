@@ -16,6 +16,7 @@
   - [4. Model Training](#4-model-training)
   - [5. Model Evaluation](#5-model-evaluation)
   - [6. Model Deployement](#6-model-deployement)
+- [Workflow](#workflow)
 - [Deployment](#deployment)
 <!-- * [License](#license) -->
 
