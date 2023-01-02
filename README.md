@@ -80,12 +80,6 @@ pip install -r requirements.txt
 
 
 ## Project Pipeline
-- [Deep Learning Classifier](#deep-learning-classifier)
-- [Table of contents](#table-of-contents)
-- [About project](#about-project)
-- [Technologies](#technologies)
-- [Software and Account Requirements](#software-and-account-requirements)
-- [Setup](#setup)
 - [Project Pipeline](#project-pipeline)
   - [1. Data Ingestion:](#1-data-ingestion)
   - [2. Data Validation:](#2-data-validation)
