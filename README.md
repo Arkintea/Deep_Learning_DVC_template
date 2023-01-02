@@ -80,15 +80,6 @@ pip install -r requirements.txt
 
 
 ## Project Pipeline
-- [Project Pipeline](#project-pipeline)
-  - [1. Data Ingestion:](#1-data-ingestion)
-  - [2. Data Validation:](#2-data-validation)
-  - [3. Data Transformation](#3-data-transformation)
-  - [4. Model Training](#4-model-training)
-  - [5. Model Evaluation](#5-model-evaluation)
-  - [6. Model Deployement](#6-model-deployement)
-- [Deployment](#deployment)
-
 
 ### 1. Data Ingestion: 
 * Data ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training machine learning models.
@@ -115,6 +106,6 @@ pip install -r requirements.txt
 ## Deployment
 To setup CI/CD pipeline in heroku we need 3 information
 ```
-HEROKU_EMAIL = arkintea@gmail.com
+HEROKU_EMAIL = 
 HEROKU_API_KEY = <>
-HEROKU_APP_NAME = project-insurance
+HEROKU_APP_NAME = 
