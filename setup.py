@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "deepCNN_Classifier"
+REPO_NAME = "reprositoryname"
 AUTHOR_USER_NAME = "Arkintea"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "projectname"
 AUTHOR_EMAIL = "arkintea@gmail.com"
 
 setuptools.setup(
